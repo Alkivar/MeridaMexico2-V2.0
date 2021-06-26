@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Merida Mexico</string>
+
+    <string name="a">Hello</string>
+
+    <string name="descripcion1">Mérida is a city in the Andes mountain range in northwestern Venezuela. It is known for its Spanish colonial architecture, its parks and squares, and for being a center for outdoor activities in the nearby Sierra Nevada and Sierra La Culata national parks. International visitors and the many students of the prestigious Universidad de Los Andes contribute to the lively nightlife and culture environments.</string>
+
+    <string name="descripcion2">"Hotel Doralba Inn occupies a colonial mansion located in the historic center, 300 meters from the Plaza Mayor. In this central park you will find the cathedral, the Government Palace, the Olimpo Museum and the Casa de Montejo, which belonged to the founder of the city.
+                                Rooms at the Doralba Inn are decorated with wrought iron furniture and marble counter tops. They have flat-screen cable TV, safe and high-speed internet access.
+                                The rooms are arranged around the central courtyard of the hotel and overlook the pretty pool with waterfall and fountain. There is a large terrace with sun loungers and a solarium. The lobby and corridors are decorated with paintings by Frida Kahlo and Diego Rivera. Every morning, the Fridas Garden serves breakfast al fresco under a spectacular dome. During lunch and dinner, traditional Mexican dishes are prepared. There is free parking. Within walking distance you can go to cultural activities in colonial settings. If you wish, the reception can organize day trips and visits to archaeological sites.
+                                The property is less than 3 km from parque de las Americas, and in the surrounding streets you can see many examples of colonial architecture. Merida Airport is a 15-minute drive from the hotel.
+                                Our clients say that this part of Merida is their favorite, according to independent reviews.
+                                Couples love the location. They've given it an 8.6 for two-person trips.
+                                We speak your language"</string>
+
+    <string name="descripcion3">If you are thinking of traveling to a beach, without a doubt, the beaches in Merida should be on your list. The Yucatan peninsula is one of the most sought after when thinking about a tourist destination, because its beaches have fabulous white sand and the cheapest food in almost all the establishments you go to.</string>
+
+    <string name="descripcion4">A taco is a Mexican preparation that in its standard form consists of a rolled up tortilla that contains some food inside and some type of sauce. It is considered one of the most representative dishes of Mexican food.</string>
+
+    <string name="descripcionacerca">I am Alkivar, a Software Development student currently in the third semester. I am 21 years old and I live in the San Javier neighborhood</string>
+
+    <string name="opcion1">About us</string>
+    <string name="opcion2">English</string>
+    <string name="opcion3">Spanish</string>
+
+
+
+
+</resources>

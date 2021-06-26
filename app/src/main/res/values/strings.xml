@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Merida Mexico</string>
+
+    <string name="a">hola</string>
+
+    <string name="descripcion1">Mérida es una ciudad en la cordillera de los Andes en el noroeste de Venezuela. Es conocida por su arquitectura colonial española, sus parques y plazas, y por ser un centro para realizar actividades al aire libre en los parques nacionales cercanos Sierra Nevada y Sierra La Culata. Los visitantes internacionales y los numerosos estudiantes de la prestigiosa Universidad de Los Andes contribuyen a los animados ambientes de vida nocturna y cultura</string>
+
+    <string name="descripcion2">Hotel Doralba Inn ocupa una mansión colonial situada en el centro histórico, a 300 metros de la Plaza Mayor. En este parque central encontrará la catedral, el Palacio de Gobierno, el Museo Olimpo y la Casa de Montejo, que perteneció al fundador de la ciudad.
+                                Las habitaciones del Doralba Inn están decoradas con muebles de hierro forjado y encimeras de mármol. Disponen de TV de pantalla plana por cable, caja fuerte y conexión a internet de alta velocidad.
+                                Las habitaciones están dispuestas alrededor del patio central del hotel y tienen vistas a la bonita piscina con cascada y una fuente. Hay una terraza grande con tumbonas y solárium. El vestíbulo y los pasillos están decorados con cuadros de Frida Kahlo y Diego Rivera. Cada mañana, el Fridas Garden sirve un desayuno al aire libre bajo una espectacular cúpula. Durante el almuerzo y la cena se preparan platos tradicionales mexicanos. Hay aparcamiento gratuito. A poca distancia a pie podrá acudir a actividades culturales en entornos coloniales. Si lo desea, en recepción podrá organizar excursiones de un día y visitas a yacimientos arqueológicos.
+                                El establecimiento está a menos de 3 km del parque de las Américas y en las calles de los alrededores podrá observar numerosos ejemplos de arquitectura colonial. El aeropuerto de Mérida se halla a 15 minutos en coche del hotel.
+                                Nuestros clientes dicen que esta parte de Mérida es su favorita, según los comentarios independientes.
+                                A las parejas les encanta la ubicación Le han puesto un 8,6 para viajes de dos personas.
+                                ¡Hablamos tu idioma!</string>
+
+    <string name="descripcion3">Si estás pensando en viajar a alguna playa, sin duda, las playas en Mérida deben estar en tu lista. La península yucateca es de las más buscadas a la hora de pensar en un destino turístico, porque sus playas poseen una arena blanca fabulosa y la comida más económica en casi todos los establecimientos a los que vayas.</string>
+
+    <string name="descripcion4">Un taco es una preparación mexicana​ que en su forma estándar consiste en una tortilla enrollada que contiene algún alimento dentro y algún tipo de salsa. Es considerado como uno de los platillos más representativos de la comida mexicana.</string>
+
+    <string name="descripcionacerca">Soy Alkivar, un estudiante de Desarrollo de software que actualemnte cursa el tercer semestre. Tengo 21 años y vivo en el barrio San Javier.</string>
+
+    <string name="opcion1">Acerca de</string>
+    <string name="opcion2">Ingles</string>
+    <string name="opcion3">Español</string>
+
+</resources>
